@@ -11,6 +11,14 @@ However, there are some really good Node.js task schedulers that might well be u
 
 It may take me a while though as I have many things going on and this is only one of several ideas I have in progress.
 
+## Design Overview
+
+Requirements:
+
+* Ability to recieve schedule information from an incoming message (new job, change to existing schedule, override current scheduled job).
+* Use cron-like syntax to define scheduled jobs.
+
+
 ## Inspiration
 
 Here is a list of some packages that might possibly find their way into this Node and that are providing some inspiration for the design.
