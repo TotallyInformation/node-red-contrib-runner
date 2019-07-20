@@ -38,3 +38,5 @@ Here is a list of some packages that might possibly find their way into this Nod
 * [controlled-schedule - npm](https://www.npmjs.com/package/controlled-schedule)
 
    Possible alternative to `node-schedule`.
+   
+* [controlled-schedule - npm](https://www.npmjs.com/package/controlled-schedule)
