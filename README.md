@@ -1,3 +1,5 @@
+NOTE that node-red-contrib-cron-plus overtook this work and does an excellent job of it so I see no reason to continue with this.
+
 # node-red-contrib-runner
 A Node for Node-RED that provides a comprehensive scheduler and task runner
 
